@@ -28,7 +28,6 @@ public class Main {
 
 
 
-
             System.out.print("Year (second grade): ");
             int year = scanner.nextInt();
             scanner.nextLine();
