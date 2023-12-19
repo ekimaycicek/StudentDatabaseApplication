@@ -38,7 +38,6 @@ public class Main {
 
 
 
-
             Student student = new Student(name, surname, studentNumber, year);
             students.add(student);
         }
