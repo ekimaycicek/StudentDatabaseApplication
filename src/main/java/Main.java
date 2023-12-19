@@ -30,6 +30,7 @@ public class Main {
             scanner.nextLine();
 
 
+
             Student student = new Student(name, surname, studentNumber, year);
             students.add(student);
         }
