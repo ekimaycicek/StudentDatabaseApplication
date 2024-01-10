@@ -29,7 +29,6 @@ public class Main {
             int year = scanner.nextInt();
             scanner.nextLine();
 
-
             Student student = new Student(name, surname, studentNumber, year);
             students.add(student);
         }
