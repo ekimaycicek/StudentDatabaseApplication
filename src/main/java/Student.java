@@ -7,7 +7,6 @@ public class Student {
         private int studentNumber;
         private int year;
 
-
         public Student(String name, String surname, int studentNumber, int year) {
             this.name = name;
             this.surname = surname;
