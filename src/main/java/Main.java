@@ -36,7 +36,6 @@ public class Main {
 
 
 
-
         System.out.println("\nLatest Status of Students:\n");
 
         for (Student student : students) {
