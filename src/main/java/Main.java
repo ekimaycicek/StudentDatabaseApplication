@@ -33,7 +33,6 @@ public class Main {
             students.add(student);
         }
 
-
         System.out.println("\nLatest Status of Students:\n");
 
         for (Student student : students) {
